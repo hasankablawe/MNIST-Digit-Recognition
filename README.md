@@ -9,7 +9,3 @@ This project trains a neural network to recognize handwritten digits (0-9) using
 ✅ **Uses the MNIST dataset** to recognize handwritten digits  
 ✅ **User can draw a digit** using OpenCV and predict it  
 ✅ **Real-time prediction** after drawing the digit  
-
----
-
-## 📂 Project Structure  
